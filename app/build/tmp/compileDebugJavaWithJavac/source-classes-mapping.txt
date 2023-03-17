@@ -1,0 +1,16 @@
+com/example/easytutomusicapp/AudioModel.java
+ com.example.easytutomusicapp.AudioModel
+com/example/easytutomusicapp/MusicPlayerActivity.java
+ com.example.easytutomusicapp.MusicPlayerActivity
+ com.example.easytutomusicapp.MusicPlayerActivity$1
+ com.example.easytutomusicapp.MusicPlayerActivity$2
+com/example/easytutomusicapp/MusicListAdapter.java
+ com.example.easytutomusicapp.MusicListAdapter
+ com.example.easytutomusicapp.MusicListAdapter$1
+ com.example.easytutomusicapp.MusicListAdapter$ViewHolder
+com/example/easytutomusicapp/MyMediaPlayer.java
+ com.example.easytutomusicapp.MyMediaPlayer
+com/example/easytutomusicapp/MainActivity.java
+ com.example.easytutomusicapp.MainActivity
+com/example/easytutomusicapp/BuildConfig.java
+ com.example.easytutomusicapp.BuildConfig
